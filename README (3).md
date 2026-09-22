@@ -42,4 +42,6 @@ The LED turns **ON only when both switches are pressed**. If either one of the i
 ## **Conclusion**
 
 The AND Gate project demonstrates how basic electronic components can be used to implement digital logic. The circuit confirms that the output is HIGH only when **all inputs are HIGH**.
+Result
+<img width="1600" height="900" alt="result" src="https://github.com/user-attachments/assets/6e3b29f0-f5ed-44ae-9b29-749a8a8a306c" />
 
